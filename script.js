@@ -18,7 +18,7 @@ function getData(){
     Mountain gorilla day
     `
     ecerpt.innerHTML=`
-    Mountain goriilas are very nice creatures
+    Mountain goriilas are very nice creatures, The gorilla story coming Soon
     `
     profile_img.innerHTML=`
     <img src="img/gorilla.jpg"  alt="Simon Kwikiriza" />
